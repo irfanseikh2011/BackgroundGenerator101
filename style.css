@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #0014F0 , #444556);
+    font-family: 'Sansita Swashed', cursive;
+    color: #17171f;
+}
+
+.mb-cust1{
+    margin-bottom: 25vh;
+}
+
+#customBG {
+    background-color: white;
+    /* width: fit-content; */
+    font-size: large;
+    border-radius: 2px;
+    padding: 4px;
+}
+
+input[type="color"] {
+    -webkit-appearance: none;
+	border: none;
+	width: 32px;
+    height: 32px;
+    padding: 0;
+}
